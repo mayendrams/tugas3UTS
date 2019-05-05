@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MAYENDRAMS APPS</string>
+    <string name="title_activity_bottom_navigation">Bottom_navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">home</string>
+    <string name="search">search</string>
+    <string name="favorite">favorite</string>
+    <string name="account">account</string>
+    <string name="galery">galery</string>
+    <string name="daily">daily</string>
+    <string name="gallery">gallery</string>
+    <string name="profile">profile</string>
+    <string name="passion_hobby"><![CDATA[PASSION & HOBBY]]></string>
+    <string name="title_activity_maps">Map</string>
+</resources>
